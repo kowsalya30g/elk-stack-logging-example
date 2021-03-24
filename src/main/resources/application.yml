@@ -6,4 +6,4 @@ server:
   port: 9898
 
 logging:
-  file: C:/Users/basan/Desktop/logs/elk-stack.log
+  file: C:/Users/kowsalya/Desktop/logs/elk-stack.log
